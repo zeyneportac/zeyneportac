@@ -5,6 +5,7 @@
 
 <img align="left" alt="zeyneportac | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="zeyneportacc | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="mailto:zeyortac@gmail.com" | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 
 <br />
 
@@ -18,3 +19,6 @@
 <img align="left" alt="Angular" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="NPM" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
+[instagram]: https://instagram.com/zeyneportacc
+[linkedin]: https://linkedin.com/in/zeyneportac
+[gmail]: mailto:zeyortac@gmail.com
